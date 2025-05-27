@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+dash
+scikit-learn
+datetime
+dash-bootstrap-components
+dash-extensions
+shap
+umap-learn
+streamlit

@@ -1,0 +1,8 @@
+Create a *new* dashboard to analyze and predict employee attrition ('Leave or Not').
+
+1. Explore potential patterns in leave-taking behavior. Specifically, investigate correlations between 'Leave or Not' and variables like 'Age', 'Payment Tier', 'Experience in Current Domain', 'Ever Benched', and 'Gender'. Visualize significant correlations.
+2. Build a predictive model (e.g., Logistic Regression, suggest alternatives if more appropriate) to estimate the probability of an employee leaving based on their attributes.
+3. Create a Plotly Dash dashboard that includes:
+    - Visualizations of the key patterns identified in step 1.
+    - An interface where a user can input relevant employee details (specify which ones: e.g., Age, City, Payment Tier, Gender, Ever Benched, Experience, Joining Year, Education).
+    - A display showing the model's predicted probability of that employee leaving.

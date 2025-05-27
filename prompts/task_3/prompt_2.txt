@@ -1,0 +1,4 @@
+Using the *original* `unclean_smartwatch_health_data.csv` dataset:
+
+1.  Analyze and Quantify Data Quality Issues per Column
+2.  **Create a Plotly Dash dashboard** that visualizes these quantified issues. Use clear charts (e.g., bar charts) to show the count of missing values, defined outliers, identified type errors, and non-standard categories for each relevant column. Include a summary count of total duplicate rows.

@@ -1,0 +1,5 @@
+Using the provided 'student_habits_performance.csv' dataset:
+
+1. How do the exam scores (`exam_score`) of female students compare to male students, based on the `gender` column (e.g., compare average/median scores)?
+2. How do the distributions of `exam_score` differ between genders?
+3. Create a Plotly Dash dashboard to visualize these comparisons. Use visualizations like side-by-side box plots to show `exam_score` distributions per `gender` and potentially a bar chart comparing average `exam_score`.

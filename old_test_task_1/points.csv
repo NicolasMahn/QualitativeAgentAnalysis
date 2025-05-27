@@ -1,0 +1,9 @@
+Model,Agent Type,Run ID,Points Prompt 1,Points Prompt 2,Points Prompt 3,Points Prompt 4,Points Prompt 5,Total,Comment
+GPT 4.1 mini,Agent,1,2,1.47,3,0,0,6.47,
+GPT 4.1 mini,Review Agent,1,3,2,2,3,2,12,
+GPT 4.1 mini,Review Plan Agent,1,3,0,"","","","",to expensive to continue
+Llama 3.2 3B,Review Agent,1,0,0,,,,,Failed to learn tools (forgot to save chat)
+Llama 3.3 70B,Review Agent,1,,,,,,,Failed to use tools. Was able to do Y/N Prompts
+Deepseek R1,Review Agent,1,3,3,1.4,0,0,7.4,
+Qwen Coder 32B,Review Agent,1,,,,,,,"Failed to use tools, possibly because of the short context window"
+o4-mini-high,Review Agent,1,2.1,,,,,,Broke environment

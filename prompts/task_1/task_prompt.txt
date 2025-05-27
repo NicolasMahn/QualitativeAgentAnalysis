@@ -1,0 +1,28 @@
+I have compiled a dataset of employees at my company with the following columns:
+
+1. **Education:** The educational qualifications of employees, including degree, institution, and field of study.
+2. **Joining Year:** The year each employee joined the company, indicating their length of service.
+3. **City:** The location or city where each employee is based or works.
+4. **Payment Tier:** Categorization of employees into different salary tiers.
+5. **Age:** The age of each employee, providing demographic insights.
+6. **Gender:** Gender identity of employees, promoting diversity analysis.
+7. **Ever Benched:** Indicates if an employee has ever been temporarily without assigned work.
+8. **Experience in Current Domain:** The number of years of experience employees have in their current field.
+9. **Leave or Not:** Employees that left the company.
+
+I have several questions about this dataset:
+
+1. How does the level of education relate to the Payment Tier? (Assume higher degrees like Master's or PhD represent 'better' education compared to Bachelor's. Please state any assumptions made about categorizing education levels)
+2. How does 'Experience in Current Domain' relate to the 'Payment Tier'? Examine the relationship between 'Education' and 'Payment Tier' while statistically controlling for the influence of 'Experience in Current Domain'.
+3. What is the overall gender distribution within the workforce?
+4. How does the gender distribution vary across different 'City' locations?
+5. Explore potential patterns in leave-taking behavior. Specifically, investigate correlations between 'Leave or Not' and variables like 'Age', 'Payment Tier', 'Experience in Current Domain', 'Ever Benched', and 'Gender'. Visualize significant correlations.
+6. Build a predictive model (e.g., Logistic Regression, suggest alternatives if more appropriate) to estimate the probability of an employee leaving based on their attributes.
+7. Add a component (e.g., a chart or table) that helps interpret the prediction for the *currently inputted employee*. Show *local* feature importance, highlighting which input features contributed most significantly (positively or negatively) to the predicted probability of leaving for that specific case (e.g., using SHAP or LIME).
+
+Create a Plotly Dash dashboard to visualize this relationship. It should have:
+
+- Charts that answer the above questions
+- An interface where a user can input relevant employee details (specify which ones: e.g., Age, City, Payment Tier, Gender, Ever Benched, Experience, Joining Year, Education).
+- A display showing the model's predicted probability of that employee leaving.
+- A chart the displays the human readable SHAP values

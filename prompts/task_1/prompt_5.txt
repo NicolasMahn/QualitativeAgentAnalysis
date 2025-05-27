@@ -1,0 +1,4 @@
+Update the employee attrition prediction dashboard created in the previous step.
+
+1. Add a component (e.g., a chart or table) that helps interpret the prediction for the *currently inputted employee*. Show *local* feature importance, highlighting which input features contributed most significantly (positively or negatively) to the predicted probability of leaving for that specific case (e.g., using SHAP or LIME).
+2. Integrate this explanation clearly alongside the prediction output in the dashboard interface.

@@ -1,0 +1,3 @@
+Create a dashboard using just the credit and loyalty card data, identify the most popular locations, and when they are popular. What anomalies do you see?
+What corrections would you recommend to correct these anomalies?
+Create a plotly dash frontend that visualizes this. 

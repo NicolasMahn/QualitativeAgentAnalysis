@@ -1,0 +1,2 @@
+Add the vehicle data to your analysis of the credit and loyalty card data. How does your assessment of the anomalies in question 1 change based on this new data? What discrepancies between vehicle, credit, and loyalty card data do you find?
+Update the plotly dash frontend with the answer.

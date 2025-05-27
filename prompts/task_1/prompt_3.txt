@@ -1,0 +1,5 @@
+Create a *new* dashboard using the employee dataset to analyze gender distribution.
+
+1. What is the overall gender distribution within the workforce?
+2. How does the gender distribution vary across different 'City' locations?
+3. Create a Plotly Dash dashboard visualizing these findings. Use appropriate charts, such as a pie chart for the overall distribution and grouped or stacked bar charts to compare distributions across cities.

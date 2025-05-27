@@ -1,0 +1,8 @@
+Using the provided 'unclean_smartwatch_health_data.csv' dataset, which contains missing values, potential outliers, duplicates, and inconsistencies as observed in the schema and preview:
+
+1.  **Clean the data.** Please perform and document the following cleaning steps, stating the strategy chosen where applicable:
+    * Handle Missing Values
+    * Correct Data Types
+    * Standardize Categorical Values
+    * Identify & Handle Outliers
+2.  **Create a new cleaned data file** named `cleaned_smartwatch_health_data.csv` containing the cleaned data.

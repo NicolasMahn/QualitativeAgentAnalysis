@@ -1,0 +1,2 @@
+Given the data sources provided, identify potential informal or unofficial relationships among GASTech personnel. Provide evidence for these relationships.
+Update the plotly dash frontend with the answer.

@@ -1,0 +1,16 @@
+I have compiled a dataset of employees at my company with the following columns:
+
+1.  **Education:** The educational qualifications of employees, including degree, institution, and field of study.
+2.  **Joining Year:** The year each employee joined the company, indicating their length of service.
+3.  **City:** The location or city where each employee is based or works.
+4.  **Payment Tier:** Categorization of employees into different salary tiers.
+5.  **Age:** The age of each employee, providing demographic insights.
+6.  **Gender:** Gender identity of employees, promoting diversity analysis.
+7.  **Ever Benched:** Indicates if an employee has ever been temporarily without assigned work.
+8.  **Experience in Current Domain:** The number of years of experience employees have in their current field.
+9.  **Leave or Not:** Employees that left the company.
+
+I want to analyze the relationship between employee education and their payment tier.
+
+1.  How does the level of education relate to the Payment Tier? (Assume higher degrees like Master's or PhD represent 'better' education compared to Bachelor's. Please state any assumptions made about categorizing education levels).
+2.  Create a Plotly Dash dashboard to visualize this relationship. Consider using visualizations like box plots showing the distribution of Payment Tiers for each education category, or a bar chart showing the average/median Payment Tier per education category.

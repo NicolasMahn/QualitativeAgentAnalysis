@@ -1,0 +1,7 @@
+Building on the previous analysis:
+
+1. How does 'Experience in Current Domain' relate to the 'Payment Tier'?
+2. Re-examine the relationship between 'Education' and 'Payment Tier' while statistically controlling for the influence of 'Experience in Current Domain'.
+3. Update the existing Plotly Dash dashboard:
+    - Add a new visualization showing the relationship between 'Experience in Current Domain' and 'Payment Tier'.
+    - Add another visualization (or modify the existing education vs. payment tier chart) to show the relationship between 'Education' and 'Payment Tier' *after* accounting for experience levels.

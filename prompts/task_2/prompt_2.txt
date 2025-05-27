@@ -1,0 +1,6 @@
+Create a *new* dashboard for exploring the 'student_habits_performance.csv' dataset using dimensionality reduction (DR).
+
+1. Select relevant features for DR.
+2. Perform dimensionality reduction (reducing to 2 dimensions for visualization) on the preprocessed features.
+3. Allow the user to select the DR method from a list of common options (e.g., PCA, t-SNE, UMAP).
+4. Create a Plotly Dash dashboard featuring an interactive 2D scatter plot visualizing the results of the chosen DR method. Allow points to be colored initially by `gender`.

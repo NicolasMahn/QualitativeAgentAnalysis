@@ -1,0 +1,9 @@
+Agent System,Model,all prompts in on message,Top-k,long-memory-access,T1P1,T1P2,T1P3,T1P4,T1P5,T2P1,T2P2,T2P3,T3P1,T3P2,T4P1,T4P2,T4P3,T4P4,Total,Total (%)
+Simple Agent System,Deepseek R1,False,3,False,1,1,1,1,0,1,1,0,0,0,1,0,0,0,7,50
+Reviewing Agent System,Deepseek R1,False,3,False,1,0,1,1,1,1,1,0,1,1,1,0,0,0,9,64.29
+Reviewing Agent System,Gemini 2.0,False,3,True,,,,,,,1,0,1,1,,,,,
+Reviewing Agent System with lesser Critic,Deepseek R1,False,3,False,1,0,1,1,1,1,1,0,1,1,1,0,0,0,9,64.29
+Planning Agent System,Deepseek R1,False,3,False,1,0,0,0,0
+Planning Agent System,Deepseek R1,True,3,False,0,0,0,0,0
+Reviewing Planning Agent System,Deepseek R1,True,3,False,0,0,0,0,0
+LLM Wrapper,Deepseek R1,False,3,False,1,0,1,0,0,1,1,0,1,0,1,0,0,0,6,42.86

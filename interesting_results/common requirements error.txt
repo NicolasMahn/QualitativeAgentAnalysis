@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/code/main.py", line 2, in <module>
+    from generated_code import app
+  File "/code/generated_code.py", line 8, in <module>
+    import statsmodels.api as sm
+ModuleNotFoundError: No module named 'statsmodels'
